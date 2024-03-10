@@ -47,23 +47,32 @@ operator.
 ### How to use
 
 1. Clone the repo.
-```git clone https://github.com/realrasengan/dwebchat
+```
+git clone https://github.com/realrasengan/dwebchat
 cd dwebchat
 ```
 
 2. Install all the npm's.
-```npm init```
+```
+npm init
+```
 
 3. Run the setup.
-```./setup.sh```
+```
+./setup.sh
+```
 
 4. Enter your SSL hash and IP into the Resource Records on Bob Wallet per the setup.sh instructions at the end.
 
 5. Copy and paste your Bob node API key to `bob.key`
-```echo "KEY-GOES-HERE" > bob.key```
+```
+echo "KEY-GOES-HERE" > bob.key
+```
 
 6. Run
-```npm start```
+```
+npm start
+```
 
 ###  Protocol
 
