@@ -29,6 +29,8 @@ However, this is no facade: **The combination of Handshake + IPv6 creates a dece
 
 ## Introducing dwebchat
 
+![dwebchat](https://raw.githubusercontent.com/realrasengan/dwebchat/main/dwebchat.png)
+
 dwebchat, is direct, peer to peer chat. The concept of peer to peer chat from a technological perspective isn't anything new. Anyone can write an application to do 
 this in the matter of minutes. However, coupled with Handshake, this introduces an exhorbitant amount of pleasantries.
 
