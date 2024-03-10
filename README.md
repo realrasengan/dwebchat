@@ -56,7 +56,7 @@ cd dwebchat
 
 2. Install all the npm's.
 ```
-npm init
+npm i
 ```
 
 3. Run the setup.
