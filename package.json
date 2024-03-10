@@ -1,0 +1,20 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "electron": "^29.1.0",
+    "express": "^4.18.3",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "dwebchat",
+  "description": "The internet, today, doesn't look anything like it did when I was first lucky enough to learn about it. Back then, the internet was __actually__ decentralized. We  all ran our own machines with our own servers. I could send e-mails to my colleagues which would land on their servers, and vice versa. It was good.",
+  "version": "1.0.0",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
+}
