@@ -38,9 +38,9 @@ operator.
 
 ### Requirements
 
-1. Your machine must have a public IP and ports 3600+3601 open. Your ISP probably provides one. If you don't have one, you can easily get one from (IPv6rs)[https://ipv6.rs]
+1. Your machine must have a public IP and ports 3600+3601 open. Your ISP probably provides one. If you don't have one, you can easily get one from [IPv6rs](https://ipv6.rs)
 
-2. You must have a (Handshake)[https://handshake.org] name.
+2. You must have a [Handshake](https://handshake.org) name.
 
 3. For this implementation, you'll need a newish version of nodejs (20) and a *nix machine. WSL is probably fine with a GUI.
 
@@ -48,7 +48,8 @@ operator.
 
 1. Clone the repo.
 ```git clone https://github.com/realrasengan/dwebchat
-cd dwebchat```
+cd dwebchat
+```
 
 2. Install all the npm's.
 ```npm init```
