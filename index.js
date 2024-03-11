@@ -36,7 +36,7 @@ function createWindow() {
     }
   });
   mainWindow.loadFile('./app/dwebchat.html');
- // mainWindow.webContents.openDevTools();
+//  mainWindow.webContents.openDevTools();
   mainWindow.webContents.on('did-finish-load', () => {
     const MSG = new MessageExchanger(ourName,3600,3601);
     MSG.on('msg',(msg) => {
