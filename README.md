@@ -4,7 +4,7 @@ This is POC for Internet Relay Chat. This is the IRC that was meant to be built,
 
 ## How it Works
 
-3. Everyone is a server, and everyone is a client.
+1. Everyone is a server, and everyone is a client.
 
 2. Private messages send directly from person to person (client <-> server).
 
